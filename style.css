@@ -60,3 +60,8 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
+table {
+    margin: auto;
+    background-color: white;
+    border-collapse: collapse;
+}
