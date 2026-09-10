@@ -18,11 +18,9 @@ A simple hospital appointment management system developed using Git collaboratio
 
 \- Appointment History
 
-\- User Interface
 
 
-
-\## Technologies
+\## Technologies Used
 
 
 
@@ -30,33 +28,7 @@ A simple hospital appointment management system developed using Git collaboratio
 
 \- CSS
 
-\- JavaScript
-
 \- Git
 
 \- GitHub
-
-
-
-\## Git Collaboration
-
-
-
-The project demonstrates:
-
-
-
-\- Git repository management
-
-\- Feature branches
-
-\- Multiple developers
-
-\- Multiple commits
-
-\- Remote repository synchronization
-
-\- Branch merging
-
-\- Merge conflict creation and resolution
 
