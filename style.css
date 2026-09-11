@@ -65,3 +65,19 @@ table {
     background-color: white;
     border-collapse: collapse;
 }
+form {
+    background-color: white;
+    padding: 25px;
+    max-width: 500px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #1565c0;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
